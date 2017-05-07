@@ -1,0 +1,14 @@
+#container {
+    width: 200px;
+    margin: 20px auto;
+    color: #f00;
+    text-align: center;
+    i {
+        display: block;
+        width: 104px;
+        height: 128px;
+        background: url('./index.gif') no-repeat 0 0;
+        background-size: cover;
+        margin: 20px auto;
+    }
+}
